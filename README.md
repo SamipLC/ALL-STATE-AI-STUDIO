@@ -39,6 +39,8 @@ This project applies machine learning fundamentals to a real-world insurance/ris
 
 ## Repo Structure
 ```txt
-.
+main
 ├── ALL_STATE_project.ipynb
 └── README.md
+|__ Requirement.txt
+
