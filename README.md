@@ -43,9 +43,9 @@ main
 ├── ALL_STATE_project.ipynb
 └── README.md
 |__ Requirement.txt
+```
 
-
-How to Run:
+## How to Run:
 This project is implemented as a Jupyter Notebook.
 
 Prerequisites
@@ -59,10 +59,15 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Run the notebook:
 
 Clone the repository:
+```
 git clone https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git
+
 cd ALL-STATE-AI-STUDIO
+```
 Start Jupyter:
 jupyter notebook
 Open and run:
+```
 ALL_STATE_project.ipynb
+```
 
