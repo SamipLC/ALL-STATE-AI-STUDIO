@@ -4,3 +4,27 @@ numpy
 scikit-learn
 matplotlib
 jupyter
+
+
+How to Run:
+This project is implemented as a Jupyter Notebook.
+
+Prerequisites
+
+Python 3.9+
+
+Jupyter Notebook or JupyterLab
+
+Install dependencies
+pip install numpy pandas scikit-learn matplotlib seaborn
+Run the notebook:
+
+Clone the repository:
+git clone https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git
+cd ALL-STATE-AI-STUDIO
+Start Jupyter:
+jupyter notebook
+Open and run:
+ALL_STATE_project.ipynb
+
+
