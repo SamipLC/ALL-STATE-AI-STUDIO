@@ -26,8 +26,8 @@ Contribution: Data preprocessing, feature engineering, model training, evaluatio
 
 ```
 Step 1: Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<SamipLC>/<ALL-STATE-AI-STUDIO>.git
+cd <ALL-STATE-AI-STUDIO>
 
 Step 2: Install dependencies
 pip install -r requirements.txt
